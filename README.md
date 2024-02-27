@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ichi-Ni-San12
+- 👋 Hi, I’m Priyanshu Gusain
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on frontend Projects
 - 
